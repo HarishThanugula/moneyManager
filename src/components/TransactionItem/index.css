@@ -1,0 +1,17 @@
+.card-item {
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #7e858e;
+  padding: 5px;
+  border-radius: 5px;
+  height: 30px;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 15px;
+  list-style: none;
+  align-self: flex-start;
+}
+.item {
+  font-size: 12px;
+  color: #334155;
+}
